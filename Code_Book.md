@@ -1,4 +1,4 @@
-#Code Book
+Code Book
 
 In the data set 'tidy_data.csv', there are 81 labels and 180 observations.
 
