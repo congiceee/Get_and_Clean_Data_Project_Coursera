@@ -38,4 +38,4 @@ AllDataMelted <- melt(AllData, id = c('subject', 'activity'))
 TidyData <- dcast(AllDataMelted, subject + activity ~ variable, mean)
 
 #Save the tidy data
-write.table(TidyData, 'tidy_data.csv', sep = ',', row.names = FALSE)
+write.table(TidyData, 'tidy_data.txt', row.names = FALSE, quote = FALSE)
