@@ -8,4 +8,4 @@ This is the project of Coursera: Get and Clean Data. The R code run_analysis.R d
 4. Merge the training and the test sets to create one data set.
 5. Use descriptive activity names to name the activities in the data set.
 6. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-7. Save the tidy data set as tidy_data.csv
+7. Save the tidy data set as tidy_data.txt
